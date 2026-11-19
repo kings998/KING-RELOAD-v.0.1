@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "KINGS RELOAD - Free Fire Esports Tournaments",
+  "short_name": "KINGS RELOAD",
+  "description": "Join daily Free Fire custom room matches, CS tournaments, and earn instant cash rewards.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071328",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "categories": ["games", "entertainment", "sports"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

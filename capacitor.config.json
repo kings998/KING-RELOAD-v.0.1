@@ -1,0 +1,16 @@
+{
+  "appId": "com.kingsreload.app",
+  "appName": "KINGS RELOAD",
+  "webDir": "dist",
+  "server": {
+    "url": "https://khel-galli-ecsu.vercel.app",
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "android": {
+    "backgroundColor": "#071328",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
